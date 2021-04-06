@@ -1,0 +1,35 @@
+body {
+    margin: 0 0 0 50px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+
+a {
+    color: #009579;
+}
+
+form {
+    margin-bottom:40px;
+}
+
+label {
+    display:block;
+    margin-bottom:5px;
+}
+
+.input {
+    margin-bottom:10px;
+}
+
+.input_txt, select {
+    width:50%;
+    padding:8px 20px;
+}
+
+.button {
+    padding:12px 30px;
+    background:#222222;
+    border:0;
+    border-radius:5px;
+    color:#fff;
+}
